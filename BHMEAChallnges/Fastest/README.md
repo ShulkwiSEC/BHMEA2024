@@ -4,7 +4,8 @@ Catogry: WEB
 
 Difficulty Level:  HARD :)
 
-Discrption: ``` Read `/root/flag.txt` in the guest OS. ```
+Discrption: ``` No time for description, I had some orders to deliver : D 
+Note: The code provided is without jailing, please note that when writing exploits. ```
 
 Hacks: 171  Hacks
 
