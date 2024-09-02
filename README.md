@@ -75,7 +75,8 @@ bash
 نسخ الكود
 $ docker logs <container-id>
 ````
-## Want to Stop and Remove the Container --> """ dont surrender you can do it , if you want hint contact us any time you wellcome """
+## Want to Stop and Remove the Container 
+```` dont surrender you can do it , if you want hint contact us any time you wellcome ````
 ## To stop:
 
 ````
