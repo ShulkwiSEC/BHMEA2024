@@ -49,7 +49,7 @@ You will find Dockerfile With All Challnge requite serving just unzip the challn
 
 ````
 bash
-نسخ الكود
+
 $ docker build -t my-image-name .
 ````
 ## Run the Docker Container
@@ -57,7 +57,7 @@ $ docker build -t my-image-name .
 
 ````
 bash
-نسخ الكود
+
 $ docker run -d -p 4000:80 my-image-name
 ````
 ## Check Running Containers
@@ -65,14 +65,14 @@ $ docker run -d -p 4000:80 my-image-name
 
 ````
 bash
-نسخ الكود
+
 docker ps
 ````
 ## If You Want to View Container Logs
 ## Run:
 ````
 bash
-نسخ الكود
+
 $ docker logs <container-id>
 ````
 ## Want to Stop and Remove the Container 
@@ -81,21 +81,21 @@ $ docker logs <container-id>
 
 ````
 bash
-نسخ الكود
+
 $ docker stop <container-id>
 ````
 ## To remove:
 
 ````
 bash
-نسخ الكود
+
 $ docker rm <container-id>
 ````
 ## Remove the Docker Image
 ### Run:
 ````
 bash
-نسخ الكود
+
 $ docker rmi my-image-name
 ````
 ## شعارنا جاهزية سرعة هكير
